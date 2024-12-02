@@ -4,7 +4,7 @@ num-13 is a script that checks if a number is equal to 13.
 
 ## Installation
 
-Click [install](https://Simple-Script.github.io/num-13/13.py) to install the script or use the bash command below.
+Click [install](https://Simple-Script.github.io/num-13/num-13.py) to install the script or use the bash command below.
 
 ```bash
 Invoke-WebRequest 'https://raw.githubusercontent.com/Simple-Script/num-13/main/num-13.py' -OutFile ./num-13.py
