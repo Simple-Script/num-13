@@ -1,13 +1,13 @@
-# Foobar
+# num-13
 
-Foobar is a Python library for dealing with word pluralization.
+num-13 is a script that checks if a number is equal to 13.
 
 ## Installation
 
-Click [install](https://Simple-Script.github.io/num-13/13.py) to install foobar.
+Click [install](https://Simple-Script.github.io/num-13/13.py) to install the script or use the bash command below.
 
 ```bash
-pip install foobar
+Invoke-WebRequest 'https://raw.githubusercontent.com/Simple-Script/num-13/main/num-13.py' -OutFile ./num-13.py
 ```
 
 ## Usage
