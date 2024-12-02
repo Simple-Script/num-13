@@ -1,0 +1,1 @@
+make it so it reads a file from a path when run
