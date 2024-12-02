@@ -4,7 +4,7 @@ Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Click [install](https://github.com/Simple-Script/num-13/13.py) to install foobar.
 
 ```bash
 pip install foobar
