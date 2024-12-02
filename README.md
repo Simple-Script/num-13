@@ -10,28 +10,17 @@ Click [install](https://Simple-Script.github.io/num-13/13.py) to install the scr
 Invoke-WebRequest 'https://raw.githubusercontent.com/Simple-Script/num-13/main/num-13.py' -OutFile ./num-13.py
 ```
 
-## Usage
+## Run
 
 ```bash
 python num-13.py
 ```
 
-# returns 'words'
-foobar.pluralize('word')
+## How to use
 
-# returns 'geese'
-foobar.pluralize('goose')
+When you run the script it will request the number. once input the script will output the numbers status.
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Updates will be released to improve the script.
 
 ## License
 
