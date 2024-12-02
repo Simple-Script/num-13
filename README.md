@@ -12,8 +12,9 @@ Invoke-WebRequest 'https://raw.githubusercontent.com/Simple-Script/num-13/main/n
 
 ## Usage
 
-```python
-import foobar
+```bash
+python num-13.py
+```
 
 # returns 'words'
 foobar.pluralize('word')
